@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Software Delevatmant
 - 🌱 I'm learned  HTML,CSS,JavaScript,Python,Etc...
 - 💞️ I’m looking to collaborate on role in full stack software delevatmant
-- 📫 Reach me by tel +353892431932 / Email alberhabib1993@gmail.com
+- 📫 Reach me by tel +353892431832 / Email alberhabib1993@gmail.com
 
 <!---
 albeeralkhawri/albeeralkhawri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
